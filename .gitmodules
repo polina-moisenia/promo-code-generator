@@ -1,0 +1,6 @@
+[submodule "BE"]
+	path = BE
+	url = https://github.com/polina-moisenia/promo-code-backend.git
+[submodule "FE"]
+	path = FE
+	url = https://github.com/polina-moisenia/promo-code-frontend.git
